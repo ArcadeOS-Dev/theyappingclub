@@ -1,2 +1,1 @@
-# theyappingclub
-The Yapping Club (TYC) is a private student chat and social networking platform created specifically for students of Greenwood High International School, Bannerghatta Road, Bangalore. Built for real-time peer collaboration, The Yapping Club provides students with secure, password-protected grade and classroom servers (such as 7D and custom rooms), dedicated academic subject channels, instant direct messaging with read receipts, live announcements, and multi-device access across phone, tablet, and laptop. Connect safely with Greenwood High classmates, share school updates, and stay in the loop with the GWH student community.
+
